@@ -1,7 +1,7 @@
 import pywhatkit as kt
 
-img = "berkay1.jpg"
+img = "image.jpg"
 
-text = "berkay1"
+text = "text"
 
 kt.image_to_ascii_art(img, text)
